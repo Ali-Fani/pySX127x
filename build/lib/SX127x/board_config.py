@@ -21,7 +21,7 @@
 # <http://www.gnu.org/licenses/>.
 
 
-import RPi.GPIO as GPIO
+import OPi.GPIO as GPIO
 import spidev
 
 import time
